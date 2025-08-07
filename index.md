@@ -3,9 +3,9 @@ layout: default
 title: Portafolio
 ---
 
-# 👨‍💻 Elian Ghisolfi
+# 👨‍💻 Elián Maximiliano Ghisolfi
 
-Estudiante de Computación en FAMAF, UNC.  
+Estudiante de Licenciatura en Ciencias de la Computación en FAMAF, UNC.
 Este sitio resume algunos de los proyectos universitarios realizados durante la carrera.
 
 ---
