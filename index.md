@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Portafolio
+title: Portafolio 
 ---
 
 # 👨‍💻 Elián Maximiliano Ghisolfi
 
-Estudiante de Licenciatura en Ciencias de la Computación en FAMAF, UNC.
+Estudiante de Licenciatura en Ciencias de la Computación en FAMAF, UNC.  
 Este sitio resume algunos de los proyectos universitarios realizados durante la carrera.
 
 ---
 
-## 📚 Proyectos Académico
+## 📚 Proyectos Académicos
 
 - [Sistemas Operativos: Programación de sistemas operativos y concurrencia, utilizando tanto herramientas de UNIX como el sistema operativo académico xv6-riscv.](https://github.com/Elian-Ghisolfi/Proyectos-FAMAF-Compu/tree/d094ec72ecc156f0b9e6e195e28c4fd84a30829c/2do-SO)  
   Lenguaje: C.
