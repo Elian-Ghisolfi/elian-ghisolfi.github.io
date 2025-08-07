@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Portafolio de Proyectos
+title: Portafolio
 ---
 
-# 👨‍💻 Elian Ghisolfi – Portafolio Académico
+# 👨‍💻 Elian Ghisolfi
 
 Estudiante de Computación en FAMAF, UNC.  
 Este sitio resume algunos de los proyectos universitarios realizados durante la carrera.
 
 ---
 
-## 📚 Proyectos
+## 📚 Proyectos Académico
 
 - [Sistemas Operativos: Programación de sistemas operativos y concurrencia, utilizando tanto herramientas de UNIX como el sistema operativo académico xv6-riscv.](https://github.com/Elian-Ghisolfi/Proyectos-FAMAF-Compu/tree/d094ec72ecc156f0b9e6e195e28c4fd84a30829c/2do-SO)  
   Lenguaje: C.
